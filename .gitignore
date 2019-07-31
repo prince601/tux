@@ -1,4 +1,4 @@
-/dist/webfonts,
-/node_modules,
+dist/webfonts,
+node_modules,
 gitkey,
 gitkey.pub
