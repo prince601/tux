@@ -1,15 +1,26 @@
 {
   "name": "tux_site",
   "version": "1.0.0",
-  "description": "it is a sample site exercising my skills in css",
+  "description": "sample tux site",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince601/tux_sample_.git"
+  },
   "keywords": [
-    "tux",
-    "css"
+    "css",
+    "html"
   ],
-  "author": "prince kab",
-  "license": "MIT"
+  "author": "Prince kab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prince601/tux_sample_/issues"
+  },
+  "homepage": "https://github.com/prince601/tux_sample_#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
